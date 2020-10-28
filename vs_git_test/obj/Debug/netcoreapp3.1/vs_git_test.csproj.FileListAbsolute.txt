@@ -1,0 +1,13 @@
+E:\GitRepository\test\vs_git_test\bin\Debug\netcoreapp3.1\vs_git_test.exe
+E:\GitRepository\test\vs_git_test\bin\Debug\netcoreapp3.1\vs_git_test.deps.json
+E:\GitRepository\test\vs_git_test\bin\Debug\netcoreapp3.1\vs_git_test.runtimeconfig.json
+E:\GitRepository\test\vs_git_test\bin\Debug\netcoreapp3.1\vs_git_test.runtimeconfig.dev.json
+E:\GitRepository\test\vs_git_test\bin\Debug\netcoreapp3.1\vs_git_test.dll
+E:\GitRepository\test\vs_git_test\bin\Debug\netcoreapp3.1\vs_git_test.pdb
+E:\GitRepository\test\vs_git_test\obj\Debug\netcoreapp3.1\vs_git_test.csprojAssemblyReference.cache
+E:\GitRepository\test\vs_git_test\obj\Debug\netcoreapp3.1\vs_git_test.AssemblyInfoInputs.cache
+E:\GitRepository\test\vs_git_test\obj\Debug\netcoreapp3.1\vs_git_test.AssemblyInfo.cs
+E:\GitRepository\test\vs_git_test\obj\Debug\netcoreapp3.1\vs_git_test.csproj.CoreCompileInputs.cache
+E:\GitRepository\test\vs_git_test\obj\Debug\netcoreapp3.1\vs_git_test.dll
+E:\GitRepository\test\vs_git_test\obj\Debug\netcoreapp3.1\vs_git_test.pdb
+E:\GitRepository\test\vs_git_test\obj\Debug\netcoreapp3.1\vs_git_test.genruntimeconfig.cache
